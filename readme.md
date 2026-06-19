@@ -1,4 +1,4 @@
-# 🤖 AI 对话助手
+#  AI 对话助手
 
 一个基于 DeepSeek API 的命令行 AI 对话程序，支持多密钥管理、对话历史保存与导入、个性化设置等功能。
 
@@ -80,6 +80,7 @@ API 密钥无效
 MIT License
 
 👨‍💻 作者
-ka78ka91
+KakaDesu.
+Deepseek
 
 ⭐ 如果觉得有用，给个 Star 吧！
