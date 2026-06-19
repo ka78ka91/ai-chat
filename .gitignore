@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+log.log
+api_key/default_api_key.txt

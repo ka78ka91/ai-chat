@@ -46,7 +46,7 @@ def setting(chat_history):
         time.sleep(0.5)
         os.system('cls')
         return chat_history
-    #配置2
+    #配置3
     if choice=='3':
         while True:
             fillname=input('请输入文件名:')
